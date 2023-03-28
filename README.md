@@ -8,7 +8,7 @@
 
 - 🔭 I am looking for opportunities to start my career
 
-- ▶️ Exclusive content on my LinkedIn! https://www.linkedin.com/in/sarah-de-paula-4232a7259/
+- ▶️ Exclusive content on my LinkedIn! 
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
